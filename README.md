@@ -1,2 +1,2 @@
 # Ez-Condo-Tool
-Condo project
+Condo project is a MVC project
